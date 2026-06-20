@@ -1,0 +1,2 @@
+masukin ini ke terminal : npx skills@latest add mattpocock/skills 
+link repo  : https://github.com/mattpocock/skills
